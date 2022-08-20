@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+   background-color: rgba(173, 235, 219, 0.502);
+   align-content: center;
+   text-align: center;
+}
+
+h1{
+  margin: 3;
+}
